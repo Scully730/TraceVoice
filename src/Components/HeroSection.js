@@ -35,7 +35,7 @@ const HeroSection = () => {
   };
 
   return (
-    <section className="flex flex-col items-center justify-center min-h-screen text-center px-4 py-20 bg-[#0f172a]">
+    <section className="flex flex-col items-center justify-center min-h-100 text-center px-4 py-20 bg-[#0f172a]">
       <h1 className="text-4xl sm:text-6xl font-bold mb-6 text-white">
         TraceVoice
       </h1>
